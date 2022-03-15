@@ -12,3 +12,6 @@ print("la multiplicacion de los numeros es de: ", r3)
 print("la division de los numeros es de: ", r4)
 
 print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
+
+print("Nombre: Rodrigo Alejandro de la Riva de la Roca")
+print("Carnet: 1527122")
