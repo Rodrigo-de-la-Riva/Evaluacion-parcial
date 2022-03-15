@@ -3,13 +3,11 @@
     - me gusto aprender a utilizar git y github :shipit:
 
 ## Algunos comandos basicos de python son:
- '''
- print()
- input()
- if:
- else:
- elif:
- while:
- '''
+ > print()
+ > input()
+ > if:
+ > else:
+ > elif:
+ > while:
 
  Aprendi todo esto junto a mi compañero @Raulingra
