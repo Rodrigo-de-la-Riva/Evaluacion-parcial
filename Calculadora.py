@@ -10,3 +10,5 @@ print("la suma de los numeros es de: ", r1)
 print("la resta de los numeros es de: ", r2)
 print("la multiplicacion de los numeros es de: ", r3)
 print("la division de los numeros es de: ", r4)
+
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
